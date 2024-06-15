@@ -1,5 +1,3 @@
-Descrição do Projeto da Calculadora de Investimentos:
-
 1. Objetivo:
 A calculadora de investimentos de juros compostos permite aos usuários calcular quanto seu investimento pode render ao longo do tempo, considerando o efeito dos juros compostos.
 
